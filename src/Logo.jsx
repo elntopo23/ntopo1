@@ -6,7 +6,7 @@ export default function Logo() {
   return (
      <div> 
     <div className="logo">
-      <h1>NTOPO</h1>
+      <h1>NTOPO♤♡♧●○♤</h1>
     </div>
   <div className="logo-icon">
    <ul>
