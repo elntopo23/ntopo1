@@ -9,7 +9,7 @@ export default function Password() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        if (password === "eltopo23") {
+        if (password === "1999kiboko") {
             navigate("/Upload");
         } else {
             setError("Incorrect password");
