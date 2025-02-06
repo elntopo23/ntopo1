@@ -175,13 +175,9 @@
     column-gap: 10px;
     
   }
-  .deco{
-    border-radius: 50%;
-    border: 1px solid orangered;
-    height: 50px;
-  }
+  
   .footer .deco img{
-    width: 50px;
+    width: 37px;
     animation: spin infinite 3s ;
   }
   @keyframes spin {
